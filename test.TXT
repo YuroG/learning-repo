@@ -4,4 +4,4 @@ Add third row
 foo bar
 bar foo
 
---This commit I want to revert
+commit from new branch
