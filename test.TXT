@@ -5,3 +5,4 @@ foo bar
 bar foo
 
 commit from new branch
+commit 2
