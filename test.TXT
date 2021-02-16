@@ -9,3 +9,4 @@ commit 2
 
 foo
 bar
+lorem insput
