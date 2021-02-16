@@ -10,3 +10,7 @@ commit 2
 foo
 bar
 lorem insput
+
+foo bar
+bar foo
+bla bla
