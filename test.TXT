@@ -11,12 +11,10 @@ foo
 bar
 lorem insput
 
-<<<<<<< HEAD
 foo bar
 bar foo
 bla bla
-=======
+
 Hello World
 Add another row
 Add third row
->>>>>>> new-branch
