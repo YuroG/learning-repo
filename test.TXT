@@ -1,7 +1,3 @@
 Hello World
 Add another row
 Add third row
-foo bar
-bar foo
-
---This commit I want to revert
