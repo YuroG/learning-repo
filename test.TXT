@@ -8,3 +8,4 @@ commit from new branch
 commit 2
 
 foo
+bar
